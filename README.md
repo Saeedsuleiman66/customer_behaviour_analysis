@@ -12,7 +12,7 @@ This project focuses on analyzing customer behavior patterns to extract actionab
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python 🐍
 * **Data Manipulation:** Pandas, NumPy
-* **Visualization:** Pwer BI
+* **Visualization:** Power BI
 * **Environment:** Jupyter Notebook / Google Colab
 * **Version Control:** Git & GitHub
 
